@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Digital Forensics </b>
-  - [ForensiX: A cyber triage tool to streamline digital forensic investigation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ForensiX: A cyber triage tool to streamline digital forensic investigation](https://github.com/Vatsalsharma7/ForensiX)
 
 
 <h2> 🤳 Connect with me:</h2>
