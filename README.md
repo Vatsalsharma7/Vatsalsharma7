@@ -35,7 +35,7 @@
 
 - **Languages:** Python, Java
 - **Cybersecurity:** Burp Suite, Nessus, Wireshark, Nmap, Metasploit
-- **Cloud:** AWS (EC2, S3), Azure Fundamentals
+- **Cloud:** AWS, Azure Fundamentals
 - **Networking:** Cisco Packet Tracer
 
 <h2> 🤳 Connect with me:</h2>
