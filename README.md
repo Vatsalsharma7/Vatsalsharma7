@@ -37,7 +37,6 @@
 - **Cybersecurity:** Burp Suite, Nessus, Wireshark, Nmap, Metasploit
 - **Cloud:** AWS (EC2, S3), Azure Fundamentals
 - **Networking:** Cisco Packet Tracer
-- **Tools:** Git, Docker, Linux, Volatility, Autopsy
 
 <h2> 🤳 Connect with me:</h2>
 
