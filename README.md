@@ -14,6 +14,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Digital Forensics </b>
+  - [DeepTrace: An Advanced Digital Forensic Investigation Platform](https://github.com/Vatsalsharma7/DeepTrace)
   - [ForensiX: A cyber triage tool to streamline digital forensic investigation](https://github.com/Vatsalsharma7/ForensiX)
 
 - <b>Ethical Hacking </b>
