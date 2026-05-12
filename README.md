@@ -13,11 +13,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Digital Forensics </b>
+  - [BlueFusion CTEM: Continuous Threat Exposure Management (CTEM) Platform](https://github.com/Vatsalsharma7/BlueFuison-CTEM)
   - [DeepTrace: An Advanced Digital Forensic Investigation Platform](https://github.com/Vatsalsharma7/DeepTrace)
   - [ForensiX: A cyber triage tool to streamline digital forensic investigation](https://github.com/Vatsalsharma7/ForensiX)
-
-- <b>Ethical Hacking </b>
   - [Vulenrabilty Assesment on Metasploitable2](https://github.com/Vatsalsharma7/security-scanning-metasploitable2)
 
 <h2>👨‍💻 Software Development Projects:</h2>
